@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browserify": "^16.0.0",
     "gulp": "^3.9.1",
     "jasmine": "^3.0.0"
   }
