@@ -4,7 +4,7 @@
   "description": "#### A program that takes a user's age and return their age on different planet. 2/9/17",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "karma start karma.conf.js"
   },
   "author": "",
   "license": "ISC",
