@@ -24,8 +24,8 @@ A web application created with Javascript, node.js framework where a user can cr
 
 1. Clone this repository link.
 `https://github.com/Edgarcho/Super-Galactic-Calculator.git`
-4. Open the project in IntelliJ or in any Integrated Development Environment for Java.
-5. Run the App.
+2. Run these commands in terminal.<br>`$ npm install` <br> `$ bower install`.
+4. When you are ready to get the project up and running, use the following commands.<br>`$ gulp build` <br> `$ gulp serve`
 6. Open in any browser.
 (http://localhost:4567/)
 

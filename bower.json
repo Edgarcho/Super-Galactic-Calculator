@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "description": "#### A program that takes a user's age and return their age on different planet. 2/9/17",
+  "main": "index.js",
+  "authors": [
+    "Edgar Hernandez <edgarchortiz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
