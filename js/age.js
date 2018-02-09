@@ -1,5 +1,5 @@
-function Age(userAge){
-  this.age = age;
+function Age(currentAge){
+  this.age = currentAge;
 }
-};
+
 exports.ageModule = Age;
